@@ -9,3 +9,19 @@ def solution(A):
         return 1
     else:
         return 0
+
+
+# Slower
+def solution(A):
+    s =set(range(1,len(A)+1))
+
+    for i in A:
+        if i > len(A):
+            return 0
+
+        s.discard(i)
+
+        if len(s) == 0:
+            return 1
+    
+    return 0

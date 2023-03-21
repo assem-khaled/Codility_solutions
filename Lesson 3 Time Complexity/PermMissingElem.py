@@ -1,4 +1,22 @@
 def solution(A):
+    l = set( range(1, len(A)+2))
+    
+    for i in A:
+        l.remove(i)
+    
+    return l.pop()
+  
+  
+def solution(A):
+    l = [0] * (len(A)+1)
+
+    for i in A:
+        l[i-1] = 1
+    
+    return l.index(0)+1
+
+        
+def solution(A):
     try:
         A.sort()
         i2=1
@@ -13,14 +31,3 @@ def solution(A):
         #no elements in the list
         return 1
 		
-def solution2(A):
-    n = len(A)
-    a =[0] * n
-
-    for i in A:
-        if 1 <= i <= n:
-            a[i-1] = 1
-    try:
-        return a.index(0)+1
-    except:
-        return len(A)+1

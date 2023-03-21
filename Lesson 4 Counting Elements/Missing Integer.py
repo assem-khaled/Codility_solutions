@@ -1,3 +1,14 @@
+def solution(A):
+
+    l = [0] * (len(A)+1)
+
+    for i in A:
+        if 0 >= i or i > len(A):
+            continue
+        l[i-1] = 1
+    
+    return l.index(0)+1
+
 
 def solution(A):
     m = len(A)

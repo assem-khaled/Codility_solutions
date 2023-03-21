@@ -14,3 +14,15 @@ def solution(A, K):
         return list
     except:
         return A
+        
+def solution(A, K):
+
+    temp_list = [0] * len(A)
+    new_idx = 0
+    
+    for i in range(len(A)):
+        new_idx = K+i
+        new_idx %= (len(A))
+        temp_list[new_idx] = A[i]
+    
+    return temp_list

@@ -15,7 +15,7 @@ My Solutions to [Codility Lessons](https://codility.com/programmers/lessons) (10
 - Lesson 4 Counting Elements
   - FrogRiverOne [py](https://github.com/assem-khaled/Codility_solutions/blob/master/Lesson%204%20Counting%20Elements/FrogRiverOne.py), [c](https://github.com/assem-khaled/codility-solutions/blob/master/Lesson%204%20Counting%20Elements/FrogRiverOne.c)
   - MaxCounters [py](https://github.com/assem-khaled/Codility_solutions/blob/master/Lesson%204%20Counting%20Elements/MaxCounters.py)
-  - MissingInteger [py](https://github.com/assem-khaled/Codility_solutions/blob/master/Lesson%204%20Counting%20Elements/Missing%20Integer.py) [java](https://github.com/assem-khaled/Codility_solutions/blob/master/Lesson%204%20Counting%20Elements/Missing%20Integer.java)
+  - MissingInteger [py](https://github.com/assem-khaled/Codility_solutions/blob/master/Lesson%204%20Counting%20Elements/Missing%20Integer.py), [java](https://github.com/assem-khaled/Codility_solutions/blob/master/Lesson%204%20Counting%20Elements/Missing%20Integer.java)
   - PermCheck [py](https://github.com/assem-khaled/Codility_solutions/blob/master/Lesson%204%20Counting%20Elements/PermCheck.py)
  
 - Lesson 5 Prefix Sums
@@ -26,4 +26,18 @@ My Solutions to [Codility Lessons](https://codility.com/programmers/lessons) (10
 - Lesson 6 Sorting
   - Distinct [py](https://github.com/assem-khaled/Codility_solutions/blob/master/Lesson%206%20Sorting/Distinct.py)
   - MaxProductOfThree [py](https://github.com/assem-khaled/Codility_solutions/blob/master/Lesson%206%20Sorting/MaxProductOfThree.py)
- 
+
+- Lesson 7 Stacks and Queues
+  - Brackets [py](https://github.com/assem-khaled/codility-solutions/blob/master/Lesson%207%20Stacks%20and%20Queues/Brackets.py)
+  - Nesting [py](https://github.com/assem-khaled/codility-solutions/blob/master/Lesson%207%20Stacks%20and%20Queues/Nesting.py)
+  - StoneWall [py](https://github.com/assem-khaled/codility-solutions/blob/master/Lesson%207%20Stacks%20and%20Queues/StoneWall.py), [c](https://github.com/assem-khaled/codility-solutions/blob/master/Lesson%207%20Stacks%20and%20Queues/StoneWall.c)
+
+- Lesson 8 Leader
+  - Dominator [py](https://github.com/assem-khaled/codility-solutions/blob/master/Lesson%208%20Leader/Dominator.py), [c](https://github.com/assem-khaled/codility-solutions/blob/master/Lesson%208%20Leader/Dominator.c)
+
+- Lesson 9 Maximum slice problem
+  - MaxSliceSum [py](https://github.com/assem-khaled/codility-solutions/blob/master/Lesson%209%20Maximum%20slice%20problem/MaxSliceSum.py), [c](https://github.com/assem-khaled/codility-solutions/blob/master/Lesson%209%20Maximum%20slice%20problem/MaxSliceSum.c)
+  - MaxDoubleSliceSum [py](https://github.com/assem-khaled/codility-solutions/blob/master/Lesson%209%20Maximum%20slice%20problem/MaxDoubleSliceSum.py), [c](https://github.com/assem-khaled/codility-solutions/blob/master/Lesson%209%20Maximum%20slice%20problem/MaxDoubleSliceSum.c)
+
+
+

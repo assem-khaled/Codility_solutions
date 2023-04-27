@@ -1,9 +1,11 @@
 def solution(A):
-    A.sort()
     if len(A) == 0:
         return 0
-    d = 1
-    for i in range(1,len(A)):
-        if A[i] != A[i-1]:
-            d += 1
-    return d
+
+    A.sort()
+    result = 1
+    
+    for i in range(len(A)-1):
+        if(A[i] != A[i+1]):
+            result += 1
+    return result

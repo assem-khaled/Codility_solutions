@@ -1,5 +1,5 @@
 # Codility Lessons solutions
-My Solutions to [Codility Lessons](https://codility.com/programmers/lessons) (100% performance):
+Solutions to [Codility Lessons](https://codility.com/programmers/lessons) (100% Correctness & performance):
 - Lesson 1 Iterations
   - Binary Gap [py](https://github.com/assem-khaled/Codility_solutions/blob/master/Lesson%201%20Iterations/Binary%20Gap.py), [c](https://github.com/assem-khaled/codility-solutions/blob/master/Lesson%201%20Iterations/Binary%20Gap.c)
   
@@ -39,5 +39,18 @@ My Solutions to [Codility Lessons](https://codility.com/programmers/lessons) (10
   - MaxSliceSum [py](https://github.com/assem-khaled/codility-solutions/blob/master/Lesson%209%20Maximum%20slice%20problem/MaxSliceSum.py), [c](https://github.com/assem-khaled/codility-solutions/blob/master/Lesson%209%20Maximum%20slice%20problem/MaxSliceSum.c)
   - MaxDoubleSliceSum [py](https://github.com/assem-khaled/codility-solutions/blob/master/Lesson%209%20Maximum%20slice%20problem/MaxDoubleSliceSum.py), [c](https://github.com/assem-khaled/codility-solutions/blob/master/Lesson%209%20Maximum%20slice%20problem/MaxDoubleSliceSum.c)
 
+- Lesson 10 Prime and composite numbers
+  - CountFactors [py](https://github.com/assem-khaled/codility-solutions/blob/master/Lesson%2010%20Prime%20and%20composite%20numbers/CountFactors.py), [c](https://github.com/assem-khaled/codility-solutions/blob/master/Lesson%2010%20Prime%20and%20composite%20numbers/CountFactors.c)
+  - MinPerimeterRectangle [py](https://github.com/assem-khaled/codility-solutions/blob/master/Lesson%2010%20Prime%20and%20composite%20numbers/MinPerimeterRectangle.py), [c](https://github.com/assem-khaled/codility-solutions/blob/master/Lesson%2010%20Prime%20and%20composite%20numbers/MinPerimeterRectangle.c)
+  - Flags [py](https://github.com/assem-khaled/codility-solutions/blob/master/Lesson%2010%20Prime%20and%20composite%20numbers/Flags.py)
 
+- Lesson 11 Sieve of Eratosthenes
+  - CountNonDivisible [py](https://github.com/assem-khaled/codility-solutions/blob/master/Lesson%2011%20Sieve%20of%20Eratosthenes/CountNonDivisible.py)
+
+- Lesson 12 Euclidean algorithm
+  - ChocolatesByNumbers [py](https://github.com/assem-khaled/codility-solutions/blob/master/Lesson%2012%20Euclidean%20algorithm/ChocolatesByNumbers.py), [c](https://github.com/assem-khaled/codility-solutions/blob/master/Lesson%2012%20Euclidean%20algorithm/ChocolatesByNumbers.c)
+
+- Lesson 13 Fibonacci numbers
+  - FibFrog [py](https://github.com/assem-khaled/codility-solutions/blob/master/Lesson%2013%20Fibonacci%20numbers/FibFrog.py)
+  - Ladder [py](https://github.com/assem-khaled/codility-solutions/blob/master/Lesson%2013%20Fibonacci%20numbers/Ladder.py)
 
